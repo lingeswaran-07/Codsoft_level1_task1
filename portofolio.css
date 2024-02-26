@@ -1,0 +1,157 @@
+nav ul li{
+    display: inline-block;
+    margin-left: 20px;
+   
+    
+}
+
+ul{
+   text-align: right;
+  
+  
+  
+}
+
+nav{
+    height: 50px;
+    background-color: black;
+   position: fixed;
+   top: 0;
+   left:0;
+   width: 1515px;
+  
+
+}
+
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+
+nav ul li a:hover{
+    color: blue;
+
+}
+nav ul li{
+    list-style: none;
+}
+p{
+    font-size: 32px;
+    font-family: sans-serif;
+    width:700px;
+    margin: 20px;
+    justify-content: space-between;
+    line-height: 1.5;
+    color:black;
+    text-align: justify;
+    
+}
+
+.details{
+    width:800px;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    position: relative;
+    
+}
+
+.skills img{
+    margin-left: 210px;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.skills img:hover{
+transform: scale(1.05);
+}
+
+.pic img{
+   float: right;
+   border: 10px;
+   border-radius: 800px;
+   height: 400px;
+   margin-top: 200px;
+   margin-right: 250px;
+   
+}
+
+.icon {
+   
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 100px;
+    
+    
+}
+
+.icon img{
+   text-align: center;
+   margin-right: 100px;
+   text-decoration: none;
+
+}
+
+button{
+    float: right;
+    margin-right: 600px;
+    margin-top: 30px;
+    background-color:crimson ;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+    font-size: larger;
+}
+
+.projects p{
+    font-size:30px ;
+    width: auto;
+
+
+}
+
+.contact{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.contact p{
+    text-align: center;
+    width: auto;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    transform: scale(1.05);
+}
+
+.icon img:hover{
+    transform: scale(1.05);
+}
+
+.contact img:hover{
+    transform: scale(1.05);
+}
+
+.projects{
+    margin-top: 100px;
+    
+}
+
+.skills{
+    margin-top: 100px;
+}
+
+.aboutme{
+    margin-top: 100px;
+}
